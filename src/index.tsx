@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap-icons/font/bootstrap-icons.css';
+import { Toaster } from 'react-hot-toast';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <Toaster />
   </React.StrictMode>,
   document.getElementById('root')
 );
