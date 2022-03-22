@@ -1,5 +1,16 @@
 # Assignment
 
-Clone this repo
-run npm install
-run npm start
+To run this project,
+
+Clone the repo
+
+    git clone https://github.com/devjsrana/assignment-wd.git
+goto project directory
+
+    cd assignment-wd
+Install dependencies
+
+    npm install
+Run project
+
+    npm start
